@@ -1,0 +1,5 @@
+CompName,Platform,OSVersion,OwningGroup,CIName,MaintWindow
+DC-1,HyperV Type 2,Windows Server 2012 R2 Data Center,Active Directory,CI4211,WOM 2 DOW 1 MW 1 TO 7
+SCCM-1,HyperV Type 2,Windows Server 2012 R2,System Center,CI4212,WOM 3 DOW 2 MW 4 TO 10
+SERVER-1,HyperV Type 2,Windows Server 2012 R2,Wintel Operations,CI4213,WOM 4 DOW 3 MW 3 TO 8
+DESKTOP-3GR7M12,Toshiba,Windows 10 Pro,Corporate Users,CI4213,WOM 3 DOW 6 MW 4 TO 8

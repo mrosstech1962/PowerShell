@@ -1,0 +1,6 @@
+#!/bin/bash
+aws s3 cp s3://mrosstech-wordpresscode /var/www/html --recursive
+service crond start
+service httpd start
+chown -R apache.apache /var/www/html
+chmod -R 755 /var/www/html
